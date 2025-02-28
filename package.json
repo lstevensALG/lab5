@@ -1,0 +1,24 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "I, Liam STevens, am doing Lab 5",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lstevensALG/lab5.git"
+  },
+  "author": "Liam Stevens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lstevensALG/lab5/issues"
+  },
+  "homepage": "https://github.com/lstevensALG/lab5#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.85.1"
+  }
+}
